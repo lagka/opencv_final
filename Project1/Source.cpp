@@ -11,7 +11,7 @@
 
 using namespace cv;
 using namespace std;
-
+//add test
 Mat src, src_gray, frame, src_2;
 Mat dst, detected_edges, dstt;
 VideoCapture video("C:/Users/∂¿©s¿M/Desktop/a.avi");
